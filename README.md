@@ -1,6 +1,6 @@
 ![My Logo](https://github.com/simonjvardy/simonjvardy/blob/main/assets/img/GitHub-name.png)
 
-# Command Line Engish Dictionary / Thesaurus App
+# FizzBuzz Coding Challenge
 
 ## About ##
 
@@ -36,4 +36,4 @@ Will your code need to have multiple values altered throughout the script before
 ## Acknowledgements ##
 
 - [YouTube - FizzBuzz: One Simple Interview Question](https://www.youtube.com/watch?v=QPZ0pIK_wsc) Credit: Tom Scott
-- [YouTube - FizzBuzz](https://www.youtube.com/watch?v=FRVhHtRW3pY) credit Sam Lopez
+- [YouTube - FizzBuzz](https://www.youtube.com/watch?v=FRVhHtRW3pY) Credit: Sam Lopez
